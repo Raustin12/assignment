@@ -1,0 +1,11 @@
+h1 {
+    color:green;
+}
+.photos img {
+    width:100px;
+}
+.photos{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    
+}
